@@ -1,0 +1,36 @@
+Core Java
+
+Features of Java 
+
+1. Simple
+2. Object Oriented Proframming
+3. Platform Independant - Can run same class file on multiple platforms/operating system
+4. Portable - We can carry .class files and run on diffrent machines
+5. Secured - No pointers in Java like in C++, C
+6. Multithreaded - 
+7. Architectural Nutral - Java works on 32/x86 bit and x64 bit operating system (platform)
+8. High Performence - By using thrads, Memory managmnet (JVM - Garbage collector)
+9. Dynanmic - We can load classes dynamically
+
+
+C++ vs Java diffrence
+
+1. C++ is platform dependant , Java is platform independant.
+2. C++ is used for system programming, Java used in Application development, Website, Application, Banking Application
+3. C++ have pointer concepts, Java don't have pointers.
+4. Multiple inheritence possible in C++, Not possible in Java (ambugity while resolving methods call)
+5. In C++ we have call by value and call by reference, In java we have only call by value
+6. C++ Multithreading support but using 3rd party lib. Java has inbuild support for Multithreading
+
+
+JVM / JRE / JDK
+
+JVM: Java Virtual Machine
+
+Steps for java code execution:
+1. .class file created (after compilation)
+2. Class loaders 
+3. Bytecode Verify .class file
+4. Interpreater (Computer understandable code )
+5. Run .class file
+
