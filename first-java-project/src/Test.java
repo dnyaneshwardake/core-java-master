@@ -1,5 +1,9 @@
 
 public class Test {
+	
+	int abc=10;
+	
+	int employeeId = 10;
 
 	// public - access specifier
 	// static - keyword
@@ -10,9 +14,13 @@ public class Test {
 		// System - class in java
 		// out- object of PrintStream class
 		// println -method/function of PrintStream class
-		String s = "Hello World!";
+		String s = "Hello World!"; 
 		System.out.println(s);
 		System.out.println(s);
+	}
+	
+	public void test3434() {
+		
 	}
 
 }

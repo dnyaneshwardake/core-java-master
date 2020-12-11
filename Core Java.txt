@@ -27,10 +27,93 @@ JVM / JRE / JDK
 
 JVM: Java Virtual Machine
 
+About JVM: 
+i)  JVM is platform dependant, for windows its diffrent installation and for Unix/Linux its diffrent installation. 
+	Because configuration of each Operating system is diffrent.
+
 Steps for java code execution:
 1. .class file created (after compilation)
 2. Class loaders 
 3. Bytecode Verify .class file
 4. Interpreater (Computer understandable code )
 5. Run .class file
+
+
+JRE: Java Runtime Environment (also reffred as RTE)
+
+1. Is set of libraries/jars (rt.jar, resources.jar, etc) , Used while running code in JVM.
+
+
+JDK: Java Developement Kit
+ -- Java 7, Java 8, Java 11, Current version Java 15
+ 
+1. JDK is used to develop application like Web App, Websites, Mobile App
+2. JDK has diffrent version kile 
+3. JDK includes JVM, JRE
+
+ Implementations of JDK:
+	1. Enterprise Edition 
+	2. Standadrd Edition 
+	4. Micro Edition (For Mobile App)
+	
+	
+	
+Language Fundamentals:
+
+1. Identifiers
+	Identifiers used for identification purpose, ex. class name, method name, variable name etc.
+	
+public class Test {
+	int id;
+	String name;
+	public static void main(String[] args) {
+		System.out.println(s);
+	}
+}
+	Above Simple class is with below identification details.
+	i. Test -> class name
+	ii. main -> method name 
+	iii. name -> variable name
+	iv. String -> Predefined class
+	v. args -> variable name, method parameter
+	vi. id -> variable name
+	
+Rules for defining java identifiers
+1. Allowed characters in identifiers are alphnumeric, A-Z, a-z, 0-9, $ sign, and _ (Underscore).
+	ex. Abc@ -> Invalid identifier
+		Abc123 -> valid identifier
+2. Identifiers should not start with digits
+	ex. 123employeeId -> invalid
+		employeeId123 -> valid
+3. Java Identifiersare case sensitive
+	ex. Abc and abc are diffrent 
+4. No limit for length of identifier
+	ex. char dhjksfksdhfksjfffffffffffffffffffffffffffsfjksfhksjhfkshfkshjkfhsjkhfksjhfskbfmsbfsnmfb;
+	 (4 to 15 characters are recommanded for length)
+5. Reserved words can'nt be used as identifiers
+	ex. int employeeid=10; -> valid
+		int while=20; -> invalid
+		
+Total 53 reserved words in java.
+
+
+	
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
 
