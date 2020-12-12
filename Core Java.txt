@@ -94,7 +94,66 @@ Rules for defining java identifiers
 	ex. int employeeid=10; -> valid
 		int while=20; -> invalid
 		
-Total 53 reserved words in java.
+Keywords in Java:
+	- Keywords are reserved words which are with predefined meaning or represent some predefined actions.
+
+	1. abstract - used on methods or classes to define abstract method and abstract classes.
+	2. assert - Assert used for verifying the desired result of code.
+	3. boolean - data type , possible values true and false.
+	4. break - control statement for breaking our of loop
+	5. byte - data type, can hold 8 bit 
+	6. case - used in switch statemet 
+	7. char - data type, can hold 16-bit unicode character
+	8. class - to Declare a class
+	9. continue - Sends control back to outside loop.
+	10. catch - caches exception genrated in try block
+	11. default - specifies the default case in switch / in java 8 to declare method as default in interface
+	12. do - to declare do-while loop
+	13. double - data type, can hold 64 bit floating point value
+	14. enum - to declare enumeration type
+	15. else - indicates alternative for if statement
+	16. extends - indicates that class is derived from parent class
+	17. final - used on variabled and methods, to make them as final and canot be chnaged
+	18. finally - used with try-catch block - finally block executed always 
+	19. float - data type, can hold 32 bit values/numbers
+	20. for - used to start for loop
+	21. if - to test condition and control the flow
+	22. import -  reference other classes in class
+	23. instanceof - indicated weather an object is instance of specific class or not
+	24. implements - to implement interfaces on class
+	25. int - data type, can hold 32 bit numbers
+	26. interface - to declare interface
+	27. long - data type , can hold 64 bit values
+	28. new - create new objcet of class
+	29. null - indicate that object has no reference
+	30. native - used on methods , to implement platform specific code
+	31. private - access specifier
+	32. protected - access specifier
+	33. public - access specifier
+	34. package - to declare java package
+	35. return - 
+	36. static
+	37. short
+	38. super
+	39. strictfp
+	40. switch 
+	41. synchronised
+	42. this
+	43. throw
+	44. throws
+	45. transient
+	46. try
+	47. true
+	48. false
+	49. void
+	50. volatile
+	51. while
+	52. const - future use
+	53. goto - future use
+	
+	
+
+
 
 
 	

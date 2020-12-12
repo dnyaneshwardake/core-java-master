@@ -1,7 +1,5 @@
-import java.util.ArrayList;
-import java.util.List;
 
-public class Test{
+public class Test2 {
 	
 	int abc=10;
 	
@@ -22,13 +20,7 @@ public class Test{
 		System.out.println(s);
 	}
 	
-	public void test3434() {
-		List al = new ArrayList<>();
-		
-		if("abc" instanceof String) {
-			
-		}
-		
+	public default void test3434() {
 		
 	}
 	
