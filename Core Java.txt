@@ -131,23 +131,23 @@ Keywords in Java:
 	32. protected - access specifier
 	33. public - access specifier
 	34. package - to declare java package
-	35. return - 
-	36. static
-	37. short
-	38. super
-	39. strictfp
-	40. switch 
-	41. synchronised
-	42. this
-	43. throw
-	44. throws
-	45. transient
-	46. try
-	47. true
-	48. false
-	49. void
-	50. volatile
-	51. while
+	35. return - to return the values from function/method
+	36. static - is unsed on variable and methods, 
+	37. short - data type, can hold 16 bit numbers/integers
+	38. super - refers to the parent class, 
+	39. strictfp - restrict precisio and rounding of floating point numbers.
+	40. switch - to execute code on some maching condtion
+	41. synchronised - can be used on methods or block. used on multithreading.
+	42. this - used to refeer the class level/instance variables.
+	43. throw - used in exception handling
+	44. throws - exception handling
+	45. transient - to make it not to save in DB.
+	46. try -  used in excetion handling
+	47. true - is boolean type value
+	48. false - is boolean type values
+	49. void - return type of method, which means retuning nothing.
+	50. volatile - used in multithreading, to maintain updated value of the variable.
+	51. while - used in while loop
 	52. const - future use
 	53. goto - future use
 	
