@@ -1,14 +1,23 @@
 package com.corejava;
 
+// 1. This class is for the Java comments demo - single line comments
+
+/* Multi line comments 
+ * 
+ * Information about class
+ *  
+ * */ 
+
 public class JavaComments {
+		
+	// This method is printing Hello World!
 	
-	int a;
-	
-	volatile String accountBalance;
-	
-	public void test(int a) {
-		a=20;
-		this.a=10;
+	/*
+	 * Multi line comments on method
+	 */
+	public void test() {
+		System.out.println("Hello World!");
 	}
+	
 	
 }
