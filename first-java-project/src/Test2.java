@@ -1,10 +1,9 @@
 
 public class Test2 {
-	
-	int abc=10;
-	
-	final int pi = 10;
 
+	int abc = 10;
+
+	final int pi = 10;
 
 	// public - access specifier
 	// static - keyword
@@ -15,15 +14,8 @@ public class Test2 {
 		// System - class in java
 		// out- object of PrintStream class
 		// println -method/function of PrintStream class
-		String s = "Hello World!"; 
+		String s = "Hello World!";
 		System.out.println(s);
 		System.out.println(s);
 	}
-	
-	public default void test3434() {
-		
-	}
-	
-	
-
 }

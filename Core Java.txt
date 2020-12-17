@@ -152,6 +152,49 @@ Keywords in Java:
 	53. goto - future use
 	
 	
+Java Code Comments
+
+	1. Single line comments -> using //
+	2. Multi line comment -> /* ........... */
+	
+	Why comments in code -> Comments helps developer to understand functinality of method or class, also assumptions in code if any.
+
+
+Data Types in Java.
+
+ 1. Primitive Data Types
+	i. byte - 1 byte - can store numbers between -128 to + 128
+	ii. short - 2 bytes - can store numbers -32768 to +32767 (whole numbers)
+	iii. int - 4 bytes - can hold numbers -2,14,7483,648 to 2147483647 (whole numbers)
+	iv. long - 8 bytes - (whole numbers)
+	v. float - 4 bytes - fraction numbes , Decimal digits 6 to 7
+	vi. double - 8 byte - fraction number , decimal digit up to 15
+	vii. boolean - 1 byte - tue or false valid values.
+	viii. char - 2 bytes - Stores single character or  ASCII values (A -> 65, B 66, )
+	
+	Numbers in Java in 2 groups.
+		1. Interger Type - byte, short, int , long.
+		2. Floating Point - float, double.
+	
+	 
+ 2. Non-Primitive Data Types
+	
+	1. non-primitive data types are either predefined or created by user.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
