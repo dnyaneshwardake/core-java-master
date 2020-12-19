@@ -23,7 +23,8 @@ public class DataTypesInJava {
 		System.out.println(str);
 		
 		Student std = new Student(); // user defined non-primitive data type
-
+		std.getStudent();
+		
 	}
 
 }

@@ -178,14 +178,50 @@ Data Types in Java.
 	
 	 
  2. Non-Primitive Data Types
+ 
+	ex. String (Pre-defined in java), Student (User created)
 	
-	1. non-primitive data types are either predefined or created by user.
+	-Diffrence in Primitive and non-primitive data types.
+	
+	1. non-primitive data types are either predefined (String class) or created by user(Student class). - Primitive typs are predefined
+	2. Non-Primitive can be used to call methods . - Primitve data types can't. 
+	3. Primitve types has always value, while non-primitive can be null;
+	4. primitive types starts with lowercase letters, while non-primitive starts with Capital letters.
+	
 
+Variables in Java.
 
+	- variables are used to store some value inside it.
 
+	1. local variable. // Method level variables
+		- Declared inside the method. Used inside the method, and has scope in method only, canot be used outside the method.
+		
+	2. Global variable. // also called as instance variable // class level variables
+		- Declaraed inside the Class, can be used inside class anywhere in any method.
+		
+Modifiers / Access specifiers in Java.
 
+	- Used on variables, methods, class.
+	
+	1. public 
+	2. private
+	3. protected
+	4. default (This will added by Java if programmer is not providing any modifier)
+	
+Java Type Casting.
 
-
+	- Type casting can be done on primitive type.
+	
+	1. Widnening Casting (Automatically done by Java)
+		- Converting from smaller data type to larger data type
+		
+		byte -> short -> char -> int -> long -> float -> double
+			
+	2. Narrowing Casting (Manually by programmer)
+		- Conveting larger data type to smaller data type.
+		- Narrowing casting must be done by programmer manualy.
+		
+		double -> float -> long -> int -> char -> short -> byte
 
 
 
