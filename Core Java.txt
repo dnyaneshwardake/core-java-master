@@ -224,10 +224,17 @@ Java Type Casting.
 		double -> float -> long -> int -> char -> short -> byte
 
 
+Reading values from keyboard
+
+	To read values from keyboard we have to use Scanner utility class in java.
+		- we can any types of values from user and save into variables.
 
 
+Control statements in Java
 
-
+	- We ahve control statements in java which are responsible for controling exection of code.
+	
+	1. if
 
 
 
