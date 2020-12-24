@@ -230,11 +230,44 @@ Reading values from keyboard
 		- we can any types of values from user and save into variables.
 
 
-Control statements in Java
+Operators in Java
 
-	- We ahve control statements in java which are responsible for controling exection of code.
+	- Used to perform operatios on variables and values.
 	
-	1. if
+	Types of Operators.
+	
+	 1. Arithmatic Operators.
+		- Used to perform basic math operations.
+			Addition +				10+2 = 12
+			Subsrtaction -			10-2 = 8
+			Multiplication *		5 * 5 = 25
+			Divicion /				10/2 = 5			
+			Modulus %				10%2 = 0 , 7%3 = 1, 5%2 = 1
+			Incement ++				5 ++ = 6
+			Decrement --			5 -- = 4
+		
+	 
+	 2. Assignment Operators.
+		- used to assign values to the variables.
+		
+		= is used to assign values 
+		
+		+= , -=, *=, /=, %= etc are additonal assignment operators.
+		
+	 
+	 3. Comparison Operators
+		- Used to compare two values
+		
+		==		3==5 false, 2==2 true
+		!=		3!=5 true	5 != 5 false
+		>		5>10 false	10>7 true
+		<		3<5 true
+		>=		5>=10 false	10>=7 true
+		<= 		5<=10 true
+		
+	 
+	 4. Logical Operators
+	 5. Bitwise operator.
 
 
 
