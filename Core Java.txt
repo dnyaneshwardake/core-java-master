@@ -264,10 +264,33 @@ Operators in Java
 		<		3<5 true
 		>=		5>=10 false	10>=7 true
 		<= 		5<=10 true
-		
 	 
 	 4. Logical Operators
+		- Used to determine the logic between variables or values.
+		
+		&& (AND)-> Retuens true if both statement are true.  ex. 5<8 && 3>1 ----> True,   5<8 && 3<1 --> False
+		|| (OR) -> Returns true if one codition/statement is true. ex. 5<8 || 3>1 ----> True,    5<8 || 3<1 --> True
+		!  (NOT)-> Reverse the result, return false if result is true. ex. !(5<8) ---> False,   !(1>5) ---> True
+	 
+	 
 	 5. Bitwise operator.
+	 
+		- Used to perform binary logic with the bitsof int or long.
+		
+		& - AND  - 5 & 1 is equivalaent to  0101 & 0001 -> 0001 -----> equavalent to 1  
+			Meaning -> Sets each bit to 1, if both bits are 1.
+			
+		| - OR  5 | 1 is equivalaent to  0101 | 0001 -> 0101 --> Equivalent to 5
+			Meaning -> Sets each bit to 1, if any one of the bit is 1.
+			
+		~ NOT   ~5 equivalent to ~0101 -> 1010 - > 10
+			Meaning - reverse the bits, 
+			
+		^ XOR 5 ^ 1 - > 0101 ^ 0001 --> 0100 ----> 4
+			Meaning - Sets each bit to 1 ,if only one of the two bits is 1.
+			
+		
+		
 
 
 
