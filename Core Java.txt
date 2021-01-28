@@ -287,7 +287,7 @@ Operators in Java
 			Meaning - reverse the bits, 
 			
 		^ XOR 5 ^ 1 - > 0101 ^ 0001 --> 0100 ----> 4
-			Meaning - Sets each bit to 1 ,if only one of the two bits is 1.
+			Meaning - Sets each bit to 1 ,if only one of the two bits is 1. 
 			
 		
 		
