@@ -289,6 +289,31 @@ Operators in Java
 		^ XOR 5 ^ 1 - > 0101 ^ 0001 --> 0100 ----> 4
 			Meaning - Sets each bit to 1 ,if only one of the two bits is 1.
 			
+Package in Java.
+		- Used to define where class is present and later can be used to import that class in any other class.
+		- package name should be in small letters as per java codin standared.
+		
+Control Statement in Java. (Conditional statement)
+
+	- To chane or manae control flow of code we use control statement in java .
+	
+	1. if
+		
+		if(condition){
+			// Code
+		}
+		
+	2. if - else, else if
+		if(condition){
+			// code
+		}
+		else{
+			// code
+		}
+		
+	3. switch
+	4. break
+	5. continue
 		
 		
 
